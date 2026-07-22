@@ -3,7 +3,7 @@
 **Contribution Number:** 4 
 **Student:** Ngoc Quang Minh Nguyen  
 **Issue:** https://github.com/Raftersecurity/rafter-cli/issues/37  
-**Status:** Phase IV
+**Status:** Merged
 
 ---
 
@@ -206,10 +206,9 @@ Checklist
  No secrets, credentials, or API keys in the diff
 
 **Maintainer Feedback:**
-- [Date]: [Summary of feedback received]
-- [Date]: [How you addressed it]
+- [7/20/2026]: Shipped in #202 (thanks @Minh-Nguyen-2k7!) with a small post-merge tidy in #203 — test now runs vitest run (no watch-mode hang in CI), with test:watch, test:coverage, and clean added. Closing.
 
-**Status:** [Awaiting review]
+**Status:** Merged
 
 ---
 
